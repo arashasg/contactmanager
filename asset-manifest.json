@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/contactmanager/static/js/main.ed07db60.chunk.js",
-    "main.js.map": "/contactmanager/static/js/main.ed07db60.chunk.js.map",
-    "runtime-main.js": "/contactmanager/static/js/runtime-main.b0cc983e.js",
-    "runtime-main.js.map": "/contactmanager/static/js/runtime-main.b0cc983e.js.map",
-    "static/css/2.3026e235.chunk.css": "/contactmanager/static/css/2.3026e235.chunk.css",
-    "static/js/2.846df7d0.chunk.js": "/contactmanager/static/js/2.846df7d0.chunk.js",
-    "static/js/2.846df7d0.chunk.js.map": "/contactmanager/static/js/2.846df7d0.chunk.js.map",
-    "index.html": "/contactmanager/index.html",
-    "precache-manifest.ffd29c9b0d11e1381ee0f8c018a1f8dd.js": "/contactmanager/precache-manifest.ffd29c9b0d11e1381ee0f8c018a1f8dd.js",
-    "service-worker.js": "/contactmanager/service-worker.js",
-    "static/css/2.3026e235.chunk.css.map": "/contactmanager/static/css/2.3026e235.chunk.css.map",
-    "static/js/2.846df7d0.chunk.js.LICENSE": "/contactmanager/static/js/2.846df7d0.chunk.js.LICENSE",
-    "static/media/font-awesome.min.css": "/contactmanager/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.js": "/newcontactmanager/static/js/main.fcd928e8.chunk.js",
+    "main.js.map": "/newcontactmanager/static/js/main.fcd928e8.chunk.js.map",
+    "runtime-main.js": "/newcontactmanager/static/js/runtime-main.3d005069.js",
+    "runtime-main.js.map": "/newcontactmanager/static/js/runtime-main.3d005069.js.map",
+    "static/css/2.7c72b2d6.chunk.css": "/newcontactmanager/static/css/2.7c72b2d6.chunk.css",
+    "static/js/2.846df7d0.chunk.js": "/newcontactmanager/static/js/2.846df7d0.chunk.js",
+    "static/js/2.846df7d0.chunk.js.map": "/newcontactmanager/static/js/2.846df7d0.chunk.js.map",
+    "index.html": "/newcontactmanager/index.html",
+    "precache-manifest.ea9e5be1d370098f6bd9a9e8b297d68f.js": "/newcontactmanager/precache-manifest.ea9e5be1d370098f6bd9a9e8b297d68f.js",
+    "service-worker.js": "/newcontactmanager/service-worker.js",
+    "static/css/2.7c72b2d6.chunk.css.map": "/newcontactmanager/static/css/2.7c72b2d6.chunk.css.map",
+    "static/js/2.846df7d0.chunk.js.LICENSE": "/newcontactmanager/static/js/2.846df7d0.chunk.js.LICENSE",
+    "static/media/font-awesome.min.css": "/newcontactmanager/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0cc983e.js",
-    "static/css/2.3026e235.chunk.css",
+    "static/js/runtime-main.3d005069.js",
+    "static/css/2.7c72b2d6.chunk.css",
     "static/js/2.846df7d0.chunk.js",
-    "static/js/main.ed07db60.chunk.js"
+    "static/js/main.fcd928e8.chunk.js"
   ]
 }
